@@ -14,7 +14,7 @@
 
 ### - I'm 18 years old Computer Science student from the IUT of Paris - Banks of the Seine University of Paris.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/DeyKJy_D27EAAAAC/anime-bleach.gif">
 
 ### - Learning :
 - ✨ Computer Architecture
