@@ -91,9 +91,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://www.instagram.com/ynsontop/">
   <img align="left" alt="Instagram" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram.png" />
 </a>
-</br>
-</br>
-Discord : Theonlyyouns
+<a href="https://discordapp.com/users/842480950202073149">
+  <img align="left" alt="Discord" width="150" hight="100" src="https://raw.githubusercontent.com/gist/uzza1hossain/e2521e3150e68c2a68a78bdece8a29d9/raw/558a213049001c294356bfc4f2e1a6590ed04532/discord-logo.svg" />
+</a>
 </br>
 </br>
 </br>
