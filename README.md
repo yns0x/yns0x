@@ -62,10 +62,10 @@
 
 <p>
   <!-- Git Stat -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yns0x&show_icons=true&theme=dracula&cache_seconds=188" align ="right" alt="GitHub stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yns0x&show_icons=true&theme=dracula" align ="right" alt="GitHub stats" /><br/>
   
   <!-- # Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yns0x&layout=compact&theme=dracula&cache_seconds=188" align = "center" alt="Top languages" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yns0x&layout=compact&theme=dracula" align = "center" alt="Top languages" /><br/>
 </p>
 
 </br>
