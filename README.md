@@ -62,7 +62,7 @@
 
 <p>
   <!-- Git Stat -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yns0x&show_icons=true" align ="right" alt="GitHub stat" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yns0x&show_icons=false" align ="right" alt="GitHub stat" /><br/>
   
   <!-- # Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yns0x&layout=compact" align = "center" alt="Top languages" /><br/>
