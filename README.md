@@ -137,6 +137,15 @@ hobbies: ["Jeux de stratégie en équipe", "Montage vidéo", "pop music"]
 
 ## ⏱️ Activité de code (WakaTime)
 <!--START_SECTION:waka-->
+
+```rust
+From: 05 April 2026 - To: 03 July 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
