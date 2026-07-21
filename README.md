@@ -139,14 +139,12 @@ hobbies: ["Jeux de stratégie en équipe", "Montage vidéo", "pop music"]
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 April 2026 - To: 19 July 2026
+From: 05 April 2026 - To: 20 July 2026
 
-Total Time: 10 hrs 37 mins
+Total Time: 14 hrs 3 mins
 
-Python                     5 hrs 48 mins         >>>>>>>>>>>>>------------   51.86 %
-JavaScript                 2 hrs 2 mins          >>>>>--------------------   18.25 %
-Text                       51 mins               >>-----------------------   07.66 %
-Other                      34 mins               >------------------------   05.12 %
+Python                     5 hrs 48 mins         >>>>>>>>-----------------   33.58 %
+Other                      3 hrs 13 mins         >>>>>--------------------   18.68 %
 ```
 
 <!--END_SECTION:waka-->
