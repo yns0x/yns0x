@@ -139,7 +139,7 @@ hobbies: ["Jeux de stratégie en équipe", "Montage vidéo", "pop music"]
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 April 2026 - To: 20 July 2026
+From: 05 April 2026 - To: 21 July 2026
 
 Total Time: 14 hrs 3 mins
 
