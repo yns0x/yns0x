@@ -27,12 +27,12 @@
 
 ```yaml
 name: Younes Neche
-age: 18 ans
+age: 19 ans
 location: Île-de-France, France 🇫🇷
-study: BUT Informatique - IUT de Paris Rives de Seine (2025 - 2028)
-looking_for: 🎯 Alternance Software Engineering / DevOps (2-3 jours/semaine) - dès Septembre 2026
+study: BUT Informatique - IUT de Paris Rives de Seine (2025 - 2027)
+looking_for: 🎯 Stage Software Engineering / DevOps - entre Avril et Juillet (8-10 semaines)
 focus: ["Backend Architecture (Java/Spring Boot)", "DevOps (Docker/Nginx/VPS)", "Algorithmes & structures de données"]
-currently_building: Écosystème du jeu IUTdle - app Discord + infra VPS en production depuis 4 mois
+currently_building: Plateforme afin de mieux réviser le PHP pour moi et mes amis
 fun_fact: J'ai appris Docker et l'admin VPS en autodidacte pour déployer et sauver mes projet perso 🔥
 hobbies: ["Jeux de stratégie en équipe", "Montage vidéo", "pop music"]
 ```
